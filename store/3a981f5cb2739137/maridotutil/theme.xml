@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="maridotutil" name="TAD&CTS">
+	<prop id="angeldust" index="1">
+		<file>angel.png</file>
+		<x>225.6</x>
+		<y>206.3</y>
+		<xscale>1</xscale>
+		<yscale>1</yscale>
+		<face>1</face>
+		<rotation>0</rotation>
+	</prop>
